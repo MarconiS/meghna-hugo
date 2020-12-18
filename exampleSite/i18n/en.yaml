@@ -21,8 +21,8 @@
   translation: Lessons
 - id: team
   translation: Team
-- id: pricing
-  translation: Pricing
+- id: software
+  translation: Software
 - id: blog
   translation: Blog
 - id: contact
