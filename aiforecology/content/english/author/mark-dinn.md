@@ -1,6 +1,6 @@
 ---
 title: Dr. Sergio Marconi
-image: ''
+image: "/aiforecology/static/images/about/sergio_profile.png"
 email: email2@example.org
 social:
 - icon: ti-twitter-alt
