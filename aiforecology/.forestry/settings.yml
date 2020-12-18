@@ -7,7 +7,7 @@ sections:
 - type: heading
   label: Blog Post
 - type: directory
-  path: exampleSite/content/english/blog
+  path: aiforecology/content/english/blog
   label: Post (en)
   create: documents
   match: "**/*"
@@ -17,7 +17,7 @@ sections:
 - type: heading
   label: Author
 - type: directory
-  path: exampleSite/content/english/author
+  path: aiforecology/content/english/author
   label: Author (en)
   create: documents
   match: "**/*"
@@ -26,19 +26,19 @@ sections:
 - type: heading
   label: Data
 - type: directory
-  path: exampleSite/data
+  path: aiforecology/data
   label: Homepage
   create: all
   match: "**/*"
 - type: directory
-  path: exampleSite/i18n
+  path: aiforecology/i18n
   label: i18n
   create: documents
   match: "**/*"
 - type: heading
   label: Configuration
 - type: directory
-  path: exampleSite
+  path: aiforecology
   label: Configuration
   create: all
   match: "*.toml"
