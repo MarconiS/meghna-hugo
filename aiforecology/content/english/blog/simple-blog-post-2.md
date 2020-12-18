@@ -7,3 +7,4 @@ author: Sergio Marconi
 description: Example of species classification for ITCs at scale
 
 ---
+Test to familiarize with Hugo
