@@ -17,8 +17,8 @@
   translation: About Us
 - id: projects
   translation: Projects
-- id: portfolio
-  translation: Portfolio
+- id: lessons
+  translation: Lessons
 - id: team
   translation: Team
 - id: pricing
