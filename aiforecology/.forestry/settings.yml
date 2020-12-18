@@ -5,7 +5,7 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: heading
-  label: Blog Post
+  label: Blog
 - type: directory
   path: aiforecology/content/english/blog
   label: Post (en)
@@ -15,7 +15,7 @@ sections:
   templates:
   - post
 - type: heading
-  label: Author
+  label: About
 - type: directory
   path: aiforecology/content/english/author
   label: Author (en)
